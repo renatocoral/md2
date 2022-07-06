@@ -4,6 +4,7 @@ def mmc(a: int, b: int) -> int:
 
   Sim, ainda está erradão
   '''
+  print("123")
   i = 1
   multiple_a = 1
   while True:
